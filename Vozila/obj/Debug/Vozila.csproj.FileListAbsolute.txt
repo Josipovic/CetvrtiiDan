@@ -1,0 +1,5 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Vozila\bin\Debug\Vozila.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Vozila\bin\Debug\Vozila.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Vozila\obj\Debug\Vozila.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Vozila\obj\Debug\Vozila.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Vozila\obj\Debug\Vozila.pdb

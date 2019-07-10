@@ -1,0 +1,6 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\bin\Debug\Trgovanje.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\bin\Debug\Trgovanje.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\obj\Debug\Trgovanje.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\obj\Debug\Trgovanje.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\obj\Debug\Trgovanje.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\Trgovanje\obj\Debug\Trgovanje.pdb

@@ -1,0 +1,10 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\bin\Debug\CetvrtiDan.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\bin\Debug\CetvrtiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\bin\Debug\CetvrtiDan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\obj\Debug\CetvrtiDan.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\obj\Debug\CetvrtiDan.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\obj\Debug\CetvrtiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\obj\Debug\CetvrtiDan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\bin\Debug\Trgovanje.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\bin\Debug\Trgovanje.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\CetvrtiDan4\CetvrtiDan\obj\Debug\CetvrtiDan.csproj.CopyComplete
